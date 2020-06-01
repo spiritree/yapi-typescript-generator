@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "noImplicitThis": true,
+    "strictNullChecks": false,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "target": "ESNext",
+    "jsx": "react",
+    "lib": ["ESNext", "DOM"],
+    "rootDir": ".",
+    "baseUrl": ".",
+    "paths": {
+      "models": ["./example/models"]
+    },
+    "plugins": []
+  }
+}
