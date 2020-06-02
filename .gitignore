@@ -8,3 +8,4 @@ webpack/dll/*
 .cache-loader/*
 lib/
 package-lock.json
+src/swagger-api.json

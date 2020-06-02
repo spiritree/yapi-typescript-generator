@@ -8,7 +8,7 @@
     "strictNullChecks": false,
     "moduleResolution": "node",
     "module": "commonjs",
-    "target": "ESNext",
+    "target": "ES2019",
     "jsx": "react",
     "lib": ["ESNext", "DOM"],
     "rootDir": ".",
